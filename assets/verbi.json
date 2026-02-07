@@ -1,0 +1,4242 @@
+[
+  {
+    "kanji": "罵る",
+    "hiragana": "ののしる",
+    "romaji": "nonoshiru",
+    "meaning": "abuse verbally, curse",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "足す",
+    "hiragana": "たす",
+    "romaji": "tasu",
+    "meaning": "add",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "加える",
+    "hiragana": "くわえる",
+    "romaji": "kuwaeru",
+    "meaning": "add to, include",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "認める",
+    "hiragana": "みとめる",
+    "romaji": "mitomeru",
+    "meaning": "admit, recognize",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "答える",
+    "hiragana": "こたえる",
+    "romaji": "kotaeru",
+    "meaning": "answer",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "現れる",
+    "hiragana": "あらわれる",
+    "romaji": "arawareru",
+    "meaning": "appear, show up",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "寄る",
+    "hiragana": "よる",
+    "romaji": "yoru",
+    "meaning": "approach",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "着く",
+    "hiragana": "つく",
+    "romaji": "tsuku",
+    "meaning": "arrive",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "志す",
+    "hiragana": "こころざす",
+    "romaji": "kokorozasu",
+    "meaning": "aspire to",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "襲う",
+    "hiragana": "おそう",
+    "romaji": "osou",
+    "meaning": "attack",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "侍る",
+    "hiragana": "はべる",
+    "romaji": "haberu",
+    "meaning": "attend on",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "目立つ",
+    "hiragana": "めだつ",
+    "romaji": "medatsu",
+    "meaning": "attract attention, stand out",
+    "type": "う-v.",
+    "ending": "つ"
+  },
+  {
+    "kanji": "避ける",
+    "hiragana": "さける",
+    "romaji": "sakeru",
+    "meaning": "avoid, dodge",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "焼く",
+    "hiragana": "やく",
+    "romaji": "yaku",
+    "meaning": "bake, grill",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "禁じる",
+    "hiragana": "きんじる",
+    "romaji": "kinjiru",
+    "meaning": "ban, prohibit",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "浴びる",
+    "hiragana": "あびる",
+    "romaji": "abiru",
+    "meaning": "bathe, take a shower",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "居る",
+    "hiragana": "いる",
+    "romaji": "iru",
+    "meaning": "be",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "出来る",
+    "hiragana": "できる",
+    "romaji": "dekiru",
+    "meaning": "be able",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ふける",
+    "romaji": "fukeru",
+    "meaning": "be absorbed in",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "生きる",
+    "hiragana": "いきる",
+    "romaji": "ikiru",
+    "meaning": "be alive",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "魂消る",
+    "hiragana": "たまぎる",
+    "romaji": "tamagiru",
+    "meaning": "be astonished, frightened",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "聞こえる",
+    "hiragana": "きこえる",
+    "romaji": "kikoeru",
+    "meaning": "be audible, able to hear",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "基づく",
+    "hiragana": "もとづく",
+    "romaji": "motozuku",
+    "meaning": "be based on",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "眩む",
+    "hiragana": "くらむ",
+    "romaji": "kuramu",
+    "meaning": "be blinded, get dizzy",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "生まれる",
+    "hiragana": "うまれる",
+    "romaji": "umareru",
+    "meaning": "be born",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "折れる",
+    "hiragana": "おれる",
+    "romaji": "oreru",
+    "meaning": "be broken, snap",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "焦げる",
+    "hiragana": "こげる",
+    "romaji": "Kogeru",
+    "meaning": "be burned, charred",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "くねる",
+    "romaji": "kuneru",
+    "meaning": "be crooked",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "直る",
+    "hiragana": "なおる",
+    "romaji": "naoru",
+    "meaning": "be cured, healed",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "romaji": "kimaru",
+    "meaning": "be decided, agreed upon",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "負ける",
+    "hiragana": "まける",
+    "romaji": "makeru",
+    "meaning": "be defeated, lose a game",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "異なる",
+    "hiragana": "ことなる",
+    "romaji": "kotonaru",
+    "meaning": "be different from",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "違う",
+    "hiragana": "ちがう",
+    "romaji": "chigau",
+    "meaning": "be different, wrong",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "外れる",
+    "hiragana": "はずれる",
+    "romaji": "hazareru",
+    "meaning": "be disconnected, disengage",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "足りる",
+    "hiragana": "たりる",
+    "romaji": "tariru",
+    "meaning": "be enough, suffient",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "抜ける",
+    "hiragana": "ぬける",
+    "romaji": "nukeru",
+    "meaning": "be extracted, come out",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "見つかる",
+    "hiragana": "みつかる",
+    "romaji": "mitsukaru",
+    "meaning": "be found",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "喜ぶ",
+    "hiragana": "よろこぶ",
+    "romaji": "yorokobu",
+    "meaning": "be glad, pleased",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "脂ぎる",
+    "hiragana": "あぶらぎる",
+    "romaji": "aburagiru",
+    "meaning": "be greasy",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "焦る",
+    "hiragana": "あせる",
+    "romaji": "aseru",
+    "meaning": "be in a hurry, panic",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "困る",
+    "hiragana": "こまる",
+    "romaji": "komaru",
+    "meaning": "be in trouble",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "遅れる",
+    "hiragana": "おくれる",
+    "romaji": "okureru",
+    "meaning": "be late, lag behind",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "怠ける",
+    "hiragana": "なまける",
+    "romaji": "namakeru",
+    "meaning": "be lazy",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "無くなる",
+    "hiragana": "なくなる",
+    "romaji": "nakunaru",
+    "meaning": "be missing, vanish",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "間違う",
+    "hiragana": "まちがう",
+    "romaji": "machigau",
+    "meaning": "be mistaken, make a mistake",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "混じる",
+    "hiragana": "まじる",
+    "romaji": "majiru",
+    "meaning": "be mixed, get mingled with, join",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "次ぐ",
+    "hiragana": "つぐ",
+    "romaji": "tsugu",
+    "meaning": "be next",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "",
+    "hiragana": "くつあげる",
+    "romaji": "kutsugaeru",
+    "meaning": "be overturned",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "重なる",
+    "hiragana": "かさなる",
+    "romaji": "kasanaru",
+    "meaning": "be piled up, overlap",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "もてる",
+    "romaji": "moteru",
+    "meaning": "be popular",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "儲かる",
+    "hiragana": "もうかる",
+    "romaji": "mokaru",
+    "meaning": "be profitable, make money",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "迷う",
+    "hiragana": "まよう",
+    "romaji": "mayou",
+    "meaning": "be puzzled",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "悲しむ",
+    "hiragana": "かなしむ",
+    "romaji": "kanashimu",
+    "meaning": "be sad, grieve",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "助かる",
+    "hiragana": "たすかる",
+    "romaji": "tasukaru",
+    "meaning": "be saved",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "たまる",
+    "romaji": "tamaru",
+    "meaning": "be saved, accumulated",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ぬめる",
+    "romaji": "numeru",
+    "meaning": "be slippery",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "売れる",
+    "hiragana": "うれる",
+    "romaji": "ureru",
+    "meaning": "be sold",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "びびる",
+    "romaji": "bibiru",
+    "meaning": "be suprised",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "驚く",
+    "hiragana": "おどろく",
+    "romaji": "odoroku",
+    "meaning": "be suprised, amazed",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "見える",
+    "hiragana": "みえる",
+    "romaji": "mieru",
+    "meaning": "be visible, able to see",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "劣る",
+    "hiragana": "おとる",
+    "romaji": "otoru",
+    "meaning": "be worse than, inferior to",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うらむ",
+    "romaji": "uramu",
+    "meaning": "bear a grudge",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "",
+    "hiragana": "なる",
+    "romaji": "naru",
+    "meaning": "become",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "霞む",
+    "hiragana": "かすむ",
+    "romaji": "kasumu",
+    "meaning": "become blurred, hazy",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "込む",
+    "hiragana": "こむ",
+    "romaji": "komu",
+    "meaning": "become crowded",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "",
+    "hiragana": "しける",
+    "romaji": "shikeru",
+    "meaning": "become damp",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かげる",
+    "romaji": "kageru",
+    "meaning": "become dark",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "汚れる",
+    "hiragana": "よごれる",
+    "romaji": "yogoreru",
+    "meaning": "become dirty",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "乾く",
+    "hiragana": "かわく",
+    "romaji": "kawaku",
+    "meaning": "become dry",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "空く",
+    "hiragana": "すく",
+    "romaji": "suku",
+    "meaning": "become empty, uncrowded",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "固まる",
+    "hiragana": "かたまる",
+    "romaji": "katamaru",
+    "meaning": "become hard, bunch up",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "痛む",
+    "hiragana": "いたむ",
+    "romaji": "itamu",
+    "meaning": "become hurt, damaged",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "",
+    "hiragana": "きしる",
+    "romaji": "kishiru",
+    "meaning": "become misty",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "流行る",
+    "hiragana": "はやる",
+    "romaji": "hayaru",
+    "meaning": "become popular",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "強まる",
+    "hiragana": "つよまる",
+    "romaji": "tsuyomaru",
+    "meaning": "become stronger",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "いきる",
+    "romaji": "ikiru",
+    "meaning": "become sultry",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "濡れる",
+    "hiragana": "ぬれる",
+    "romaji": "nureru",
+    "meaning": "become wet",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "始める",
+    "hiragana": "はじめる",
+    "romaji": "hajimeru",
+    "meaning": "begin",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "始まる",
+    "hiragana": "はじまる",
+    "romaji": "hajimaru",
+    "meaning": "begin",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "信じる",
+    "hiragana": "しんじる",
+    "romaji": "shinjiru",
+    "meaning": "believe, trust",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "みくびる",
+    "romaji": "mikubiru",
+    "meaning": "belittle, despise",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "曲げる",
+    "hiragana": "まげる",
+    "romaji": "mageru",
+    "meaning": "bend, twist",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "捻る",
+    "hiragana": "ひねる",
+    "romaji": "hineru",
+    "meaning": "bend, twist",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "噛む",
+    "hiragana": "かむ",
+    "romaji": "kamu",
+    "meaning": "bite",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "咲く",
+    "hiragana": "さく",
+    "romaji": "saku",
+    "meaning": "bloom",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "吹く",
+    "hiragana": "ふく",
+    "romaji": "fuku",
+    "meaning": "blow, wipe",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "乗る",
+    "hiragana": "のる",
+    "romaji": "noru",
+    "meaning": "board, ride on",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "威張る",
+    "hiragana": "いばる",
+    "romaji": "ibaru",
+    "meaning": "boast",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "沸く",
+    "hiragana": "わく",
+    "romaji": "waku",
+    "meaning": "boil",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "",
+    "hiragana": "たぎる",
+    "romaji": "tagiru",
+    "meaning": "boil, seethe",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "借りる",
+    "hiragana": "かりる",
+    "romaji": "kariru",
+    "meaning": "borrow, rent",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "切れる",
+    "hiragana": "きれる",
+    "romaji": "kireru",
+    "meaning": "break, cut off, expire",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やぶれる",
+    "romaji": "yabureru",
+    "meaning": "break, lose, be beaten",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "壊す",
+    "hiragana": "こわす",
+    "romaji": "kowasu",
+    "meaning": "break, smash",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "沸かす",
+    "hiragana": "わかす",
+    "romaji": "wakasu",
+    "meaning": "bring something to the boil",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "よみがえる",
+    "romaji": "yomigaeru",
+    "meaning": "brought back to life, refreshed",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "立てる",
+    "hiragana": "たてる",
+    "romaji": "tateru",
+    "meaning": "build",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "焼ける",
+    "hiragana": "やける",
+    "romaji": "yakeru",
+    "meaning": "burn",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "買う",
+    "hiragana": "かう",
+    "romaji": "kau",
+    "meaning": "buy",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "呼ぶ",
+    "hiragana": "よぶ",
+    "romaji": "yobu",
+    "meaning": "call",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "構う",
+    "hiragana": "かまう",
+    "romaji": "kamau",
+    "meaning": "care about, mind",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "romaji": "hakobu",
+    "meaning": "carry",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "担ぐ",
+    "hiragana": "かつぐ",
+    "romaji": "katsugu",
+    "meaning": "carry on one's shoulders",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "挟む",
+    "hiragana": "はさむ",
+    "romaji": "hasamu",
+    "meaning": "catch, hold (between two things)",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "祝う",
+    "hiragana": "いわう",
+    "romaji": "iwau",
+    "meaning": "celebrate, congratulate",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "変える",
+    "hiragana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "change",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "変わる",
+    "hiragana": "かわる",
+    "romaji": "kawaru",
+    "meaning": "change",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "追う",
+    "hiragana": "おう",
+    "romaji": "ou",
+    "meaning": "chase, drive away",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "喋る",
+    "hiragana": "しゃべる",
+    "romaji": "shaberu",
+    "meaning": "chatter",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "だべる",
+    "romaji": "daberu",
+    "meaning": "chatter",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "調べる",
+    "hiragana": "しらべる",
+    "romaji": "shiraberu",
+    "meaning": "check, investigate",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "選ぶ",
+    "hiragana": "えらぶ",
+    "romaji": "erabu",
+    "meaning": "choose, select",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "食い違う",
+    "hiragana": "くいちがう",
+    "romaji": "kuichigau",
+    "meaning": "clash, disagree",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "晴れる",
+    "hiragana": "はれる",
+    "romaji": "hareru",
+    "meaning": "clear up, tidy up",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "登る",
+    "hiragana": "のぼる",
+    "romaji": "noboru",
+    "meaning": "climb",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "閉まる",
+    "hiragana": "しまる",
+    "romaji": "shimaru",
+    "meaning": "close, be closed",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "崩れる",
+    "hiragana": "くずれる",
+    "romaji": "kuzureru",
+    "meaning": "collapse, cave in",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "来る",
+    "hiragana": "くる",
+    "romaji": "kuru",
+    "meaning": "come",
+    "type": "来る",
+    "ending": "くる"
+  },
+  {
+    "kanji": "取れる",
+    "hiragana": "とれる",
+    "romaji": "toreru",
+    "meaning": "come off",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "外れる",
+    "hiragana": "はずれる",
+    "romaji": "hazureru",
+    "meaning": "come off, go wide",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "解ける",
+    "hiragana": "ほどける",
+    "romaji": "hodokeru",
+    "meaning": "come untied, loose",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "参る",
+    "hiragana": "まいる",
+    "romaji": "mairu",
+    "meaning": "come/go (humble)",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "慰める",
+    "hiragana": "なぐさめる",
+    "romaji": "nagusameru",
+    "meaning": "comfort, console",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "言いつける",
+    "hiragana": "いいつける",
+    "romaji": "iitsukeru",
+    "meaning": "command",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "通う",
+    "hiragana": "かよう",
+    "romaji": "kayou",
+    "meaning": "commute",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "比べる",
+    "hiragana": "くらべる",
+    "romaji": "kuraberu",
+    "meaning": "compare",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "せる",
+    "romaji": "seru",
+    "meaning": "compete",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "凝らす",
+    "hiragana": "こらす",
+    "romaji": "korasu",
+    "meaning": "concentrate",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つなぐ",
+    "romaji": "tsunagu",
+    "meaning": "connect, fasten",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "続く",
+    "hiragana": "つづく",
+    "romaji": "tsuzuku",
+    "meaning": "continue, follow",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "続ける",
+    "hiragana": "つづける",
+    "romaji": "tsuzukeru",
+    "meaning": "continue, proceed",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "冷える",
+    "hiragana": "ひえる",
+    "romaji": "hieru",
+    "meaning": "cool down, become cold",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "冷やす",
+    "hiragana": "ひやす",
+    "romaji": "hiyasu",
+    "meaning": "cool, refridgerate",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "数える",
+    "hiragana": "かぞえる",
+    "romaji": "kazoeru",
+    "meaning": "count",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "渡る",
+    "hiragana": "わたる",
+    "romaji": "wataru",
+    "meaning": "cross",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "越す",
+    "hiragana": "こす",
+    "romaji": "kosu",
+    "meaning": "cross, pass, move ahead",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "砕く",
+    "hiragana": "くだく",
+    "romaji": "kudaku",
+    "meaning": "crush, smash",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "泣く",
+    "hiragana": "なく",
+    "romaji": "naku",
+    "meaning": "cry",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かしる",
+    "romaji": "kashiru",
+    "meaning": "curse",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "切る",
+    "hiragana": "きる",
+    "romaji": "kiru",
+    "meaning": "cut",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "踊る",
+    "hiragana": "おどる",
+    "romaji": "odoru",
+    "meaning": "dance",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "おもいきる",
+    "romaji": "omoikiru",
+    "meaning": "dare",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "腐る",
+    "hiragana": "くさる",
+    "romaji": "kusaru",
+    "meaning": "decay, go bad, be depressed",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "偽る",
+    "hiragana": "いつわる",
+    "romaji": "itsuwaru",
+    "meaning": "deceive, lie",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "romaji": "kimeru",
+    "meaning": "decide, choose",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "定める",
+    "hiragana": "さだめる",
+    "romaji": "sadameru",
+    "meaning": "decide, establish",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "飾る",
+    "hiragana": "かざる",
+    "romaji": "kazaru",
+    "meaning": "decorate, display",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "減る",
+    "hiragana": "へる",
+    "romaji": "heru",
+    "meaning": "decrease, be reduced",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "負かす",
+    "hiragana": "まかす",
+    "romaji": "makasu",
+    "meaning": "defeat",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "喜ばす",
+    "hiragana": "よろこばす",
+    "romaji": "yorokobasu",
+    "meaning": "delight, give pleasure",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "届ける",
+    "hiragana": "とどける",
+    "romaji": "todokeru",
+    "meaning": "deliver",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "たよる",
+    "romaji": "tayoru",
+    "meaning": "depend on",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "言い表す",
+    "hiragana": "いいあらわす",
+    "romaji": "iiarawasu",
+    "meaning": "describe",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "崩す",
+    "hiragana": "くずす",
+    "romaji": "kuzusu",
+    "meaning": "destroy, break down",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "滅ぼす",
+    "hiragana": "ほろぼす",
+    "romaji": "horobosu",
+    "meaning": "destroy, ruin",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "死ぬ",
+    "hiragana": "しぬ",
+    "romaji": "shinu",
+    "meaning": "die",
+    "type": "う-v.",
+    "ending": "ぬ"
+  },
+  {
+    "kanji": "掘る",
+    "hiragana": "ほる",
+    "romaji": "horu",
+    "meaning": "dig",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "話し合う",
+    "hiragana": "はなしあう",
+    "romaji": "hanashiau",
+    "meaning": "Discuss",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "嫌がる",
+    "hiragana": "いやがる",
+    "romaji": "iyagaru",
+    "meaning": "dislike, hate",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "わる",
+    "romaji": "waru",
+    "meaning": "divide, break",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "わける",
+    "romaji": "wakeru",
+    "meaning": "divide, separate",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やる",
+    "romaji": "yaru",
+    "meaning": "do, give",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "する",
+    "romaji": "suru",
+    "meaning": "do, make",
+    "type": "う-v.",
+    "ending": "する"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うたがう",
+    "romaji": "utagau",
+    "meaning": "doubt, suspect",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "romaji": "nomu",
+    "meaning": "drink",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "降ろす",
+    "hiragana": "おろす",
+    "romaji": "orosu",
+    "meaning": "drop off, unload",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "乾かす",
+    "hiragana": "かわかす",
+    "romaji": "kawakasu",
+    "meaning": "dry",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "干す",
+    "hiragana": "ほす",
+    "romaji": "hosu",
+    "meaning": "dry, air",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "meaning": "eat",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "にじる",
+    "romaji": "nijiru",
+    "meaning": "edge forward",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "抱く",
+    "hiragana": "だく",
+    "romaji": "daku",
+    "meaning": "embrace, hug",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "励ます",
+    "hiragana": "はげます",
+    "romaji": "hagemasu",
+    "meaning": "encourage",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "終わる",
+    "hiragana": "おわる",
+    "romaji": "owaru",
+    "meaning": "end",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "楽しむ",
+    "hiragana": "たのしむ",
+    "romaji": "tanoshimu",
+    "meaning": "enjoy, have fun",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "romaji": "hairu",
+    "meaning": "enter",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "優れる",
+    "hiragana": "すぐれる",
+    "romaji": "sugureru",
+    "meaning": "excel, be excellent, be superior",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "長ける",
+    "hiragana": "たける",
+    "romaji": "takeru",
+    "meaning": "excel, be proficient at",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "取り換える",
+    "hiragana": "とりかえる",
+    "romaji": "torikaeru",
+    "meaning": "exchange",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "抜く",
+    "hiragana": "ぬく",
+    "romaji": "nuku",
+    "meaning": "extract",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "出す",
+    "hiragana": "だす",
+    "romaji": "dasu",
+    "meaning": "extract, take out",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "向かう",
+    "hiragana": "むかう",
+    "romaji": "mukau",
+    "meaning": "face, turn/head toward",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "眠る",
+    "hiragana": "ねむる",
+    "romaji": "nemuru",
+    "meaning": "fall asleep",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "転ぶ",
+    "hiragana": "ころぶ",
+    "romaji": "korobu",
+    "meaning": "fall down",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "倒れる",
+    "hiragana": "たおれる",
+    "romaji": "taoreru",
+    "meaning": "fall down, collapse",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "のめる",
+    "romaji": "nomeru",
+    "meaning": "fall forward",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "降る",
+    "hiragana": "ふる",
+    "romaji": "furu",
+    "meaning": "fall from the sky",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "惚れる",
+    "hiragana": "ほれる",
+    "romaji": "horeru",
+    "meaning": "fall in love",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "下がる",
+    "hiragana": "さがる",
+    "romaji": "sagaru",
+    "meaning": "fall, drop, hang",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "落ちる",
+    "hiragana": "おちる",
+    "romaji": "ochiru",
+    "meaning": "fall, fail, go down",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "散る",
+    "hiragana": "ちる",
+    "romaji": "chiru",
+    "meaning": "fall, scatter",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ひる",
+    "romaji": "hiru",
+    "meaning": "fart, expel (from body)",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "怖がる",
+    "hiragana": "こわがる",
+    "romaji": "kowagaru",
+    "meaning": "fear",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "恐れる",
+    "hiragana": "おそれる",
+    "romaji": "osoreru",
+    "meaning": "fear, be in awe of",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "めいる",
+    "romaji": "meiru",
+    "meaning": "feel depressed",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "沈む",
+    "hiragana": "しずむ",
+    "romaji": "shizumu",
+    "meaning": "feel depressed, sink",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "romaji": "kanjiru",
+    "meaning": "feel, sense",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "いじる",
+    "romaji": "ijiru",
+    "meaning": "fiddle with",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "たたかう",
+    "romaji": "tatakau",
+    "meaning": "fight against, struggle against",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "見つける",
+    "hiragana": "みつける",
+    "romaji": "mitsukeru",
+    "meaning": "find",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "片付ける",
+    "hiragana": "かたづける",
+    "romaji": "katazukeru",
+    "meaning": "finish, tidy up",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "釣る",
+    "hiragana": "つる",
+    "romaji": "tsuru",
+    "meaning": "fish",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "おもねる",
+    "romaji": "omoneru",
+    "meaning": "flatter",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うかぶ",
+    "romaji": "ukabu",
+    "meaning": "float, come to mind",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "流れる",
+    "hiragana": "ながれる",
+    "romaji": "nagareru",
+    "meaning": "flow, be called off",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ほてる",
+    "romaji": "hoteru",
+    "meaning": "flush, feel hot",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "畳む",
+    "hiragana": "たたむ",
+    "romaji": "tatamu",
+    "meaning": "fold",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "忘れる",
+    "hiragana": "わすれる",
+    "romaji": "wasureru",
+    "meaning": "forget",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ゆるす",
+    "romaji": "yurusu",
+    "meaning": "forgive, allow, approve",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "並ぶ",
+    "hiragana": "ならぶ",
+    "romaji": "narabu",
+    "meaning": "form a line, equal",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "集まる",
+    "hiragana": "あつまる",
+    "romaji": "atsumaru",
+    "meaning": "gather, assemble",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "集める",
+    "hiragana": "あつめる",
+    "romaji": "atsumeru",
+    "meaning": "gather, collect",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "仰ぐ",
+    "hiragana": "あおぐ",
+    "romaji": "aogu",
+    "meaning": "gaze, look up, respect, fan oneself",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "得る",
+    "hiragana": "える",
+    "romaji": "eru",
+    "meaning": "get",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "怒る",
+    "hiragana": "おこる",
+    "romaji": "okoru",
+    "meaning": "get angry",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "壊れる",
+    "hiragana": "こわれる",
+    "romaji": "kowareru",
+    "meaning": "get broken",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "着換える",
+    "hiragana": "きかえる",
+    "romaji": "kikaeru",
+    "meaning": "get changed",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "曇る",
+    "hiragana": "くもる",
+    "romaji": "kumoru",
+    "meaning": "get cloudy",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "よう",
+    "romaji": "you",
+    "meaning": "get drunk, sea sick",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "",
+    "hiragana": "こえる",
+    "romaji": "koeru",
+    "meaning": "get fat, grow fertile / cross over, exceed",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "太る",
+    "hiragana": "ふとる",
+    "romaji": "futoru",
+    "meaning": "get fat, put on weight",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "降りる",
+    "hiragana": "おりる",
+    "romaji": "oriru",
+    "meaning": "get off, go down",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "疲れる",
+    "hiragana": "つかれる",
+    "romaji": "tsukareru",
+    "meaning": "get tired",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "起きる",
+    "hiragana": "おきる",
+    "romaji": "okiru",
+    "meaning": "get up",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "馴染む",
+    "hiragana": "なじむ",
+    "romaji": "najimu",
+    "meaning": "get used to, adapt to",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "慣れる",
+    "hiragana": "なれる",
+    "romaji": "nareru",
+    "meaning": "get used to, become familiar with",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "暖まる",
+    "hiragana": "あたたまる",
+    "romaji": "atatamaru",
+    "meaning": "get warm, warm up",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "揚げる",
+    "hiragana": "あげる",
+    "romaji": "ageru",
+    "meaning": "give",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "呉れる",
+    "hiragana": "くれる",
+    "romaji": "kureru",
+    "meaning": "give (the giver is not the speaker)",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "返す",
+    "hiragana": "かえす",
+    "romaji": "kaesu",
+    "meaning": "give back, return (something to someone)",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "睨む",
+    "hiragana": "にらむ",
+    "romaji": "niramu",
+    "meaning": "glare at, keep an eye on",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "齧る",
+    "hiragana": "かじる",
+    "romaji": "kajiru",
+    "meaning": "gnaw, nibble",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "行く",
+    "hiragana": "いく",
+    "romaji": "iku",
+    "meaning": "go",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "進む",
+    "hiragana": "すすむ",
+    "romaji": "susumu",
+    "meaning": "go forward, advance",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "狂う",
+    "hiragana": "くるう",
+    "romaji": "kuruu",
+    "meaning": "go mad, be out of order",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "出る",
+    "hiragana": "でる",
+    "romaji": "deru",
+    "meaning": "go out",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "出かける",
+    "hiragana": "でかける",
+    "romaji": "dekakeru",
+    "meaning": "go out, leave home",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "回る",
+    "hiragana": "まわる",
+    "romaji": "mawaru",
+    "meaning": "go round",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "通る",
+    "hiragana": "とおる",
+    "romaji": "toru",
+    "meaning": "go through, pass",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "上がる",
+    "hiragana": "あがる",
+    "romaji": "agaru",
+    "meaning": "go up, rise",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "くじる",
+    "romaji": "kujiru",
+    "meaning": "gouge, scoop",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "こじる",
+    "romaji": "kojiru",
+    "meaning": "gouge, wrench",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "握る",
+    "hiragana": "にぎる",
+    "romaji": "nigiru",
+    "meaning": "grasp",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つかむ",
+    "romaji": "tsukamu",
+    "meaning": "grasp, grab",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "迎える",
+    "hiragana": "むかえる",
+    "romaji": "mukaeru",
+    "meaning": "greet, meet, welcome",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "くびる",
+    "romaji": "kubiru",
+    "meaning": "grip, strangle",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "生える",
+    "hiragana": "はえる",
+    "romaji": "haeru",
+    "meaning": "grow",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "暮れる",
+    "hiragana": "くれる",
+    "romaji": "kureru",
+    "meaning": "grow dark (sunset)",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "静まる",
+    "hiragana": "しずまる",
+    "romaji": "shizumaru",
+    "meaning": "grow quiet",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "生やす",
+    "hiragana": "はやす",
+    "romaji": "hayasu",
+    "meaning": "grow something",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "しげる",
+    "romaji": "shigeru",
+    "meaning": "grow thick",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "育つ",
+    "hiragana": "そだつ",
+    "romaji": "sodatsu",
+    "meaning": "grow up, be raised",
+    "type": "う-v.",
+    "ending": "つ"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ぐちる",
+    "romaji": "guchiru",
+    "meaning": "grumble",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "とばしる",
+    "romaji": "tobashiru",
+    "meaning": "gush",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ほとばしる",
+    "romaji": "hotobashiru",
+    "meaning": "gush, spurt",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "渡す",
+    "hiragana": "わたす",
+    "romaji": "watasu",
+    "meaning": "hand over",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "掛ける",
+    "hiragana": "かける",
+    "romaji": "kakeru",
+    "meaning": "hang, sit, telephone, risk",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "有る",
+    "hiragana": "ある",
+    "romaji": "aru",
+    "meaning": "have, exist",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "持つ",
+    "hiragana": "もつ",
+    "romaji": "motsu",
+    "meaning": "have, hold, own",
+    "type": "う-v.",
+    "ending": "つ"
+  },
+  {
+    "kanji": "助ける",
+    "hiragana": "たすける",
+    "romaji": "tasukeru",
+    "meaning": "help",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "手伝う",
+    "hiragana": "てつだう",
+    "romaji": "tetsudau",
+    "meaning": "help",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "隠れる",
+    "hiragana": "かくれる",
+    "romaji": "kakureru",
+    "meaning": "hide (oneself)",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "隠す",
+    "hiragana": "かくす",
+    "romaji": "kakusu",
+    "meaning": "hide (something)",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "妨げる",
+    "hiragana": "さまたげる",
+    "romaji": "samatageru",
+    "meaning": "hinder, obstruct",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "仄めかす",
+    "hiragana": "ほのめかす",
+    "romaji": "honomekasu",
+    "meaning": "hint",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やとう",
+    "romaji": "yatou",
+    "meaning": "hire, employ",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ぶつける",
+    "romaji": "butsukeru",
+    "meaning": "hit against, throw at",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ぶつかる",
+    "romaji": "butsukaru",
+    "meaning": "hit, collide with, clash",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うつ",
+    "romaji": "utsu",
+    "meaning": "hit, shoot",
+    "type": "う-v.",
+    "ending": "つ"
+  },
+  {
+    "kanji": "抱える",
+    "hiragana": "かかえる",
+    "romaji": "kakaeru",
+    "meaning": "hold (in your arms), have",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "へりくだる",
+    "romaji": "herikudaru",
+    "meaning": "humble oneself",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "急ぐ",
+    "hiragana": "いそぐ",
+    "romaji": "isogu",
+    "meaning": "hurry",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "増やす",
+    "hiragana": "ふやす",
+    "romaji": "fuyasu",
+    "meaning": "increase",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "romaji": "fueru",
+    "meaning": "increase",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "示す",
+    "hiragana": "しめす",
+    "romaji": "shimesu",
+    "meaning": "indicate, point out",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "苦しませる",
+    "hiragana": "くるしませる",
+    "romaji": "kurushimeru",
+    "meaning": "inflict pain, torment",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "吸う",
+    "hiragana": "すう",
+    "romaji": "suu",
+    "meaning": "inhale, sip, smoke",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "招く",
+    "hiragana": "まねく",
+    "romaji": "maneku",
+    "meaning": "invite, beckon to",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "誘う",
+    "hiragana": "さそう",
+    "romaji": "sasou",
+    "meaning": "invite, tempt",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やじる",
+    "romaji": "yajiru",
+    "meaning": "jeer at",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "加わる",
+    "hiragana": "くわわる",
+    "romaji": "kuwawaru",
+    "meaning": "join, participate",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "飛ぶ",
+    "hiragana": "とぶ",
+    "romaji": "tobu",
+    "meaning": "jump, fly",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "飼う",
+    "hiragana": "かう",
+    "romaji": "kau",
+    "meaning": "Keep (a pet), raise, rear",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "蹴る",
+    "hiragana": "ける",
+    "romaji": "keru",
+    "meaning": "kick",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "殺す",
+    "hiragana": "ころす",
+    "romaji": "korosu",
+    "meaning": "kill",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "知る",
+    "hiragana": "しる",
+    "romaji": "shiru",
+    "meaning": "know",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "笑う",
+    "hiragana": "わらう",
+    "romaji": "warau",
+    "meaning": "laugh",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "伏せる",
+    "hiragana": "ふせる",
+    "romaji": "fuseru",
+    "meaning": "lay face down",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "連れる",
+    "hiragana": "つれる",
+    "romaji": "tsureru",
+    "meaning": "lead",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "漏らす",
+    "hiragana": "もらす",
+    "romaji": "morasu",
+    "meaning": "leak, disclose",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "漏れる",
+    "hiragana": "もれる",
+    "romaji": "moreru",
+    "meaning": "leak, escape",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "傾く",
+    "hiragana": "かたむく",
+    "romaji": "katamuku",
+    "meaning": "lean towards, tilt",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "習う",
+    "hiragana": "ならう",
+    "romaji": "narau",
+    "meaning": "learn",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "学ぶ",
+    "hiragana": "まなぶ",
+    "romaji": "manabu",
+    "meaning": "learn, study",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "残す",
+    "hiragana": "のこす",
+    "romaji": "nokosu",
+    "meaning": "leave behind, save",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "残る",
+    "hiragana": "のこる",
+    "romaji": "nokoru",
+    "meaning": "left over, remain",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "貸す",
+    "hiragana": "かす",
+    "romaji": "kasu",
+    "meaning": "lend",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "逃がす",
+    "hiragana": "にがす",
+    "romaji": "nigasu",
+    "meaning": "let escape",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "寄せる",
+    "hiragana": "よせる",
+    "romaji": "yoseru",
+    "meaning": "let near, approach",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "通おす",
+    "hiragana": "とおす",
+    "romaji": "tosu",
+    "meaning": "let through, let pass",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "枯らす",
+    "hiragana": "からす",
+    "romaji": "karasu",
+    "meaning": "let wither",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "舐める",
+    "hiragana": "なめる",
+    "romaji": "nameru",
+    "meaning": "lick",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "臥せる",
+    "hiragana": "ふせる",
+    "romaji": "fuseru",
+    "meaning": "lie down",
+    "type": "",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "そべる",
+    "romaji": "soberu",
+    "meaning": "lie sprawled",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "好む",
+    "hiragana": "このむ",
+    "romaji": "konomu",
+    "meaning": "like",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "限る",
+    "hiragana": "かぎる",
+    "romaji": "kagiru",
+    "meaning": "limit",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "並べる",
+    "hiragana": "ならべる",
+    "romaji": "naraberu",
+    "meaning": "line up, list, arrange in order",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "聞く",
+    "hiragana": "きく",
+    "romaji": "kiku",
+    "meaning": "listen",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "暮らす",
+    "hiragana": "くらす",
+    "romaji": "kurasu",
+    "meaning": "live",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "住む",
+    "hiragana": "すむ",
+    "romaji": "sumu",
+    "meaning": "live, reside",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "見る",
+    "hiragana": "みる",
+    "romaji": "miru",
+    "meaning": "look",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "見做す",
+    "hiragana": "みなす",
+    "romaji": "minasu",
+    "meaning": "look upon, consider",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やせる",
+    "romaji": "yaseru",
+    "meaning": "lose weight, get thin",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "落とす",
+    "hiragana": "おとす",
+    "romaji": "otosu",
+    "meaning": "lose, drop",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "失う",
+    "hiragana": "うしなう",
+    "romaji": "ushinau",
+    "meaning": "lose, part with",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "無くす",
+    "hiragana": "なくす",
+    "romaji": "nakusu",
+    "meaning": "lose, remove",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "可愛がる",
+    "hiragana": "かわいがる",
+    "romaji": "kawaigaru",
+    "meaning": "love, be affectionate, tender",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "下げる",
+    "hiragana": "さげる",
+    "romaji": "sageru",
+    "meaning": "lower, hang",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "間違える",
+    "hiragana": "まちがえる",
+    "romaji": "machigaeru",
+    "meaning": "make a mistake",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "騒ぐ",
+    "hiragana": "さわぐ",
+    "romaji": "sawagu",
+    "meaning": "make a noise, be rowdy",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "污す",
+    "hiragana": "よごす",
+    "romaji": "yogosu",
+    "meaning": "make dirty, stain",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "からかう",
+    "romaji": "karakau",
+    "meaning": "make fun of, play jokes on",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "拵える",
+    "hiragana": "こしらえる",
+    "romaji": "koshiraeru",
+    "meaning": "make manufacture",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "稼ぐ",
+    "hiragana": "かせぐ",
+    "romaji": "kasegu",
+    "meaning": "make money, earn a living",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "romaji": "tsukuru",
+    "meaning": "make, build, create",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "似合う",
+    "hiragana": "あう",
+    "romaji": "niau",
+    "meaning": "match, fit",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "熟す",
+    "hiragana": "じゅくす",
+    "romaji": "jukusu",
+    "meaning": "mature, ripen",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "はかる",
+    "romaji": "hakaru",
+    "meaning": "measure, plan, plot",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "会う",
+    "hiragana": "あう",
+    "romaji": "au",
+    "meaning": "meet",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "溶かす",
+    "hiragana": "とかす",
+    "romaji": "tokasu",
+    "meaning": "melt something",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "溶ける",
+    "hiragana": "とける",
+    "romaji": "tokeru",
+    "meaning": "melt, dissolve, come untied",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "どじる",
+    "romaji": "dojiru",
+    "meaning": "mess up",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "混ぜる",
+    "hiragana": "まぜる",
+    "romaji": "mazeru",
+    "meaning": "mix",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "動く",
+    "hiragana": "うごく",
+    "romaji": "ugoku",
+    "meaning": "move",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うごかす",
+    "romaji": "ugokasu",
+    "meaning": "move, operate",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "とちる",
+    "romaji": "tochiru",
+    "meaning": "muff lines",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "要る",
+    "hiragana": "いる",
+    "romaji": "iru",
+    "meaning": "need",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "知らせる",
+    "hiragana": "しらせる",
+    "romaji": "shiraseru",
+    "meaning": "notify",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "起こる",
+    "hiragana": "おこる",
+    "romaji": "okoru",
+    "meaning": "occur, happen",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "開ける",
+    "hiragana": "あける",
+    "romaji": "akeru",
+    "meaning": "open",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "開く",
+    "hiragana": "あく",
+    "romaji": "aku",
+    "meaning": "open, become vacant",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "",
+    "hiragana": "みなぎる",
+    "romaji": "minagiru",
+    "meaning": "overflow",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "見逃す",
+    "hiragana": "みのがす",
+    "romaji": "minogasu",
+    "meaning": "overlook, let pass",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "倒す",
+    "hiragana": "たおす",
+    "romaji": "taosu",
+    "meaning": "overthrow, knock down",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "塗る",
+    "hiragana": "ぬる",
+    "romaji": "nuru",
+    "meaning": "paint",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "慌てる",
+    "hiragana": "あわてる",
+    "romaji": "awateru",
+    "meaning": "panic, be flustered",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "もじる",
+    "romaji": "mojiru",
+    "meaning": "parody, twist",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "別れる",
+    "hiragana": "わかれる",
+    "romaji": "wakareru",
+    "meaning": "part, separate from, be divided, divorced",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "よぎる",
+    "romaji": "yogiru",
+    "meaning": "pass by, drop in",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "過ぎる",
+    "hiragana": "すぎる",
+    "romaji": "sugiru",
+    "meaning": "pass, exceed",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "払う",
+    "hiragana": "はらう",
+    "romaji": "harau",
+    "meaning": "pay",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "滅びる",
+    "hiragana": "ほろびる",
+    "romaji": "horobiru",
+    "meaning": "perish",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "口説く",
+    "hiragana": "くどく",
+    "romaji": "kudoku",
+    "meaning": "persuade, make advances (to a woman)",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "",
+    "hiragana": "せびる",
+    "romaji": "sebiru",
+    "meaning": "pester for",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うつす",
+    "romaji": "utsusu",
+    "meaning": "photograph, copy, reflect",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "拾う",
+    "hiragana": "ひろう",
+    "romaji": "hirou",
+    "meaning": "pick up, find",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ほじる",
+    "romaji": "hojiru",
+    "meaning": "pick, dig out",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "せせる",
+    "romaji": "seseru",
+    "meaning": "pick, play with",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つもる",
+    "romaji": "tsumoru",
+    "meaning": "pile up, accumulate",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "重ねる",
+    "hiragana": "かさねる",
+    "romaji": "kasaneru",
+    "meaning": "pile up, repeat",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つめる",
+    "romaji": "tsumeru",
+    "meaning": "pinch",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つねる",
+    "romaji": "tsuneru",
+    "meaning": "pinch",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "企てる",
+    "hiragana": "くわだてる",
+    "romaji": "kuwadateru",
+    "meaning": "plan, scheme",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うえる",
+    "romaji": "ueru",
+    "meaning": "plant",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "遊ぶ",
+    "hiragana": "あそぶ",
+    "romaji": "asobu",
+    "meaning": "play",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "弾く",
+    "hiragana": "ひく",
+    "romaji": "hiku",
+    "meaning": "play (string instrument)",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ちぎる",
+    "romaji": "chigiru",
+    "meaning": "pledge",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "企む",
+    "hiragana": "たくらむ",
+    "romaji": "takuramu",
+    "meaning": "plot, scheme",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "",
+    "hiragana": "むしる",
+    "romaji": "mushiru",
+    "meaning": "pluck, pick, tear",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "刺す",
+    "hiragana": "さす",
+    "romaji": "sasu",
+    "meaning": "point out, sting, stab",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "突く",
+    "hiragana": "つく",
+    "romaji": "tsuku",
+    "meaning": "poke",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "磨く",
+    "hiragana": "みがく",
+    "romaji": "migaku",
+    "meaning": "polish",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "",
+    "hiragana": "おもいいる",
+    "romaji": "omoiiru",
+    "meaning": "ponder, contemplate",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "のばす",
+    "romaji": "nobasu",
+    "meaning": "postpone, extend",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "流がす",
+    "hiragana": "ながす",
+    "romaji": "nagasu",
+    "meaning": "pour, let flow",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "褒める",
+    "hiragana": "ほめる",
+    "romaji": "homeru",
+    "meaning": "praise",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "祈る",
+    "hiragana": "いのる",
+    "romaji": "inoru",
+    "meaning": "pray, wish for",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うむ",
+    "romaji": "umu",
+    "meaning": "produce, give birth, lay eggs",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "儲ける",
+    "hiragana": "もうける",
+    "romaji": "mokeru",
+    "meaning": "profit, make money",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "守る",
+    "hiragana": "まもる",
+    "romaji": "mamoru",
+    "meaning": "protect",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "庇う",
+    "hiragana": "かばう",
+    "romaji": "kabau",
+    "meaning": "protect, look after",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "引く",
+    "hiragana": "ひく",
+    "romaji": "hiku",
+    "meaning": "pull",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "殴る",
+    "hiragana": "なぐる",
+    "romaji": "naguru",
+    "meaning": "punch, hit",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "押す",
+    "hiragana": "おす",
+    "romaji": "osu",
+    "meaning": "push, press",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "しまう",
+    "romaji": "shimau",
+    "meaning": "put away",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "romaji": "ireru",
+    "meaning": "put in, let in",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "乗せる",
+    "hiragana": "のせる",
+    "romaji": "noseru",
+    "meaning": "put on top off, put on board",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "履く",
+    "hiragana": "はく",
+    "romaji": "haku",
+    "meaning": "put on, wear (on feet or legs - trousers/shoes etc)",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "meaning": "put, place",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "掲げる",
+    "hiragana": "かかげる",
+    "romaji": "kakageru",
+    "meaning": "raise (a flag), hold up",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "届く",
+    "hiragana": "とどく",
+    "romaji": "todoku",
+    "meaning": "reach",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "及ぶ",
+    "hiragana": "およぶ",
+    "romaji": "oyobu",
+    "meaning": "reach, extend to",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "読む",
+    "hiragana": "よむ",
+    "romaji": "yomu",
+    "meaning": "read",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "",
+    "hiragana": "なじる",
+    "romaji": "najiru",
+    "meaning": "rebuke",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うけとる",
+    "romaji": "uketoru",
+    "meaning": "receive, accept",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "貰う",
+    "hiragana": "もらう",
+    "romaji": "morau",
+    "meaning": "receive, get",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "減らす",
+    "hiragana": "へらす",
+    "romaji": "herasu",
+    "meaning": "reduce, decrease",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "断わる",
+    "hiragana": "ことわる",
+    "romaji": "kotowaru",
+    "meaning": "refuse, decline",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "惜しむ",
+    "hiragana": "おしむ",
+    "romaji": "oshimu",
+    "meaning": "regret, be reluctant",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "覚える",
+    "hiragana": "おぼえる",
+    "romaji": "oboeru",
+    "meaning": "remember, learn",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "外す",
+    "hiragana": "はずす",
+    "romaji": "hazusu",
+    "meaning": "remove, unfasten",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "直す",
+    "hiragana": "なおす",
+    "romaji": "naosu",
+    "meaning": "repair, cure",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "繰り返す",
+    "hiragana": "くりかえす",
+    "romaji": "kurikaesu",
+    "meaning": "repeat",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "頼む",
+    "hiragana": "たのむ",
+    "romaji": "tanomu",
+    "meaning": "request, order, ask favour",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "求める",
+    "hiragana": "もとめる",
+    "romaji": "motomeru",
+    "meaning": "request, seek, buy, ask",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "救う",
+    "hiragana": "すくう",
+    "romaji": "sukuu",
+    "meaning": "rescue, save",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "似る",
+    "hiragana": "にる",
+    "romaji": "niru",
+    "meaning": "resemble, be similar to",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "休む",
+    "hiragana": "やすむ",
+    "romaji": "yasumu",
+    "meaning": "rest, sleep",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "抑える",
+    "hiragana": "おさえる",
+    "romaji": "osaeru",
+    "meaning": "restrain, control",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "戻る",
+    "hiragana": "もどる",
+    "romaji": "modoru",
+    "meaning": "return, go back",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "帰る",
+    "hiragana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "return, go home",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "戻す",
+    "hiragana": "もどす",
+    "romaji": "modosu",
+    "meaning": "return, put back, vomit",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "あざける",
+    "romaji": "azakeru",
+    "meaning": "ridicule",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "実る",
+    "hiragana": "みのる",
+    "romaji": "minoru",
+    "meaning": "ripen, bear fruit",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "romaji": "hashiru",
+    "meaning": "run",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "逃げる",
+    "hiragana": "にげる",
+    "romaji": "nigeru",
+    "meaning": "run away, escape",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かける",
+    "romaji": "kakeru",
+    "meaning": "run, canter, gallop",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "満たす",
+    "hiragana": "みたす",
+    "romaji": "mitasu",
+    "meaning": "satisfy",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "蓄える",
+    "hiragana": "たくわえる",
+    "romaji": "takuwaeru",
+    "meaning": "save money, put aside, store",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ためる",
+    "romaji": "tameru",
+    "meaning": "save, store, accumulate",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "言う",
+    "hiragana": "いう",
+    "romaji": "iu",
+    "meaning": "say",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "叱る",
+    "hiragana": "しかる",
+    "romaji": "shikaru",
+    "meaning": "scold, tell off",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "探す",
+    "hiragana": "さがす",
+    "romaji": "sagasu",
+    "meaning": "search for",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "売る",
+    "hiragana": "うる",
+    "romaji": "uru",
+    "meaning": "sell",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "送る",
+    "hiragana": "おくる",
+    "romaji": "okuru",
+    "meaning": "send, see off",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "気付く",
+    "hiragana": "きづく",
+    "romaji": "kizuku",
+    "meaning": "sense, realize, notice",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "離れる",
+    "hiragana": "はなれる",
+    "romaji": "hanareru",
+    "meaning": "separate from, leave",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "離す",
+    "hiragana": "はなす",
+    "romaji": "hanasu",
+    "meaning": "separate, release",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "てる",
+    "romaji": "teru",
+    "meaning": "shine",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "光る",
+    "hiragana": "ひかる",
+    "romaji": "hikaru",
+    "meaning": "shine, glitter",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "輝く",
+    "hiragana": "かがやく",
+    "romaji": "kagayaku",
+    "meaning": "shine, sparkle",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "見せる",
+    "hiragana": "みせる",
+    "romaji": "miseru",
+    "meaning": "show",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "現す",
+    "hiragana": "あらわす",
+    "romaji": "arawasu",
+    "meaning": "show, reveal",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "閉める",
+    "hiragana": "しめる",
+    "romaji": "shimeru",
+    "meaning": "shut",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "歌う",
+    "hiragana": "うたう",
+    "romaji": "utau",
+    "meaning": "sing",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "座る",
+    "hiragana": "すわる",
+    "romaji": "suwaru",
+    "meaning": "sit",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "腰掛ける",
+    "hiragana": "こしかける",
+    "romaji": "koshikakeru",
+    "meaning": "sit in (western style)",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "そしる",
+    "romaji": "soshiru",
+    "meaning": "slander",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "寝る",
+    "hiragana": "ねる",
+    "romaji": "neru",
+    "meaning": "sleep, go to bed",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "滑る",
+    "hiragana": "すべる",
+    "romaji": "suberu",
+    "meaning": "slip",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "塗る",
+    "hiragana": "ぬる",
+    "romaji": "nuru",
+    "meaning": "smear on",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "とく",
+    "romaji": "toku",
+    "meaning": "solve, untie",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "話す",
+    "hiragana": "はなす",
+    "romaji": "hanasu",
+    "meaning": "speak",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "過ごす",
+    "hiragana": "すごす",
+    "romaji": "sugosu",
+    "meaning": "spend (time)",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "こぼす",
+    "romaji": "kobosu",
+    "meaning": "spill",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "",
+    "hiragana": "こぼれる",
+    "romaji": "koboreru",
+    "meaning": "spill, overflow",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "言いふらす",
+    "hiragana": "いいふらす",
+    "romaji": "iifurasu",
+    "meaning": "spread a rumour/story",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "敷く",
+    "hiragana": "しく",
+    "romaji": "shiku",
+    "meaning": "spread out, lay",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "広まる",
+    "hiragana": "ひろまる",
+    "romaji": "hiromaru",
+    "meaning": "spread, become popular",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "広める",
+    "hiragana": "ひろめる",
+    "romaji": "hiromeru",
+    "meaning": "spread, make popular",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "頑張る",
+    "hiragana": "がんばる",
+    "romaji": "ganbaru",
+    "meaning": "stand firm, try your best",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "見張る",
+    "hiragana": "みはる",
+    "romaji": "miharu",
+    "meaning": "stand guard, keep lookout",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "構える",
+    "hiragana": "かまえる",
+    "romaji": "kamaeru",
+    "meaning": "stand prepared",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "立つ",
+    "hiragana": "たつ",
+    "romaji": "tatsu",
+    "meaning": "stand up",
+    "type": "う-v.",
+    "ending": "つ"
+  },
+  {
+    "kanji": "泊まる",
+    "hiragana": "とまる",
+    "romaji": "tomaru",
+    "meaning": "stay overnight",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "盗む",
+    "hiragana": "ぬすむ",
+    "romaji": "nusumu",
+    "meaning": "steal",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "踏む",
+    "hiragana": "ふむ",
+    "romaji": "fumu",
+    "meaning": "step on",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "張る",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "stick, put something on",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "止まる",
+    "hiragana": "とまる",
+    "romaji": "tomaru",
+    "meaning": "stop",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "黙る",
+    "hiragana": "だまる",
+    "romaji": "damaru",
+    "meaning": "stop talking",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "止める",
+    "hiragana": "とめる",
+    "romaji": "tomeru",
+    "meaning": "stop, fasten",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "止める",
+    "hiragana": "やめる",
+    "romaji": "yameru",
+    "meaning": "stop, give up, resign",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "強める",
+    "hiragana": "つよめる",
+    "romaji": "tsuyomeru",
+    "meaning": "strengthen",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "固める",
+    "hiragana": "かためる",
+    "romaji": "katameru",
+    "meaning": "strengthen, harden",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "励む",
+    "hiragana": "はげむ",
+    "romaji": "hagemu",
+    "meaning": "strive, make every effort",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "苦しむ",
+    "hiragana": "くるしむ",
+    "romaji": "kurushimu",
+    "meaning": "suffer",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "言い出す",
+    "hiragana": "いいだす",
+    "romaji": "iidasu",
+    "meaning": "suggest, start talking",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "適う",
+    "hiragana": "かなう",
+    "romaji": "kanau",
+    "meaning": "suit, conform to",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "支える",
+    "hiragana": "ささえる",
+    "romaji": "sasaeru",
+    "meaning": "support",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "囲む",
+    "hiragana": "かこむ",
+    "romaji": "kakomu",
+    "meaning": "surround, enclose",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "泳ぐ",
+    "hiragana": "およぐ",
+    "romaji": "oyogu",
+    "meaning": "swim",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "引き受ける",
+    "hiragana": "ひきうける",
+    "romaji": "hikiukeru",
+    "meaning": "take charge of",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "脱ぐ",
+    "hiragana": "ぬぐ",
+    "romaji": "nugu",
+    "meaning": "take off, remove (shoes, clothes)",
+    "type": "う-v.",
+    "ending": "ぐ"
+  },
+  {
+    "kanji": "関わる",
+    "hiragana": "かかわる",
+    "romaji": "kakawaru",
+    "meaning": "take part in, affect",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "掛かる",
+    "hiragana": "かかる",
+    "romaji": "kakaru",
+    "meaning": "take, begin, be hanging",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "取る",
+    "hiragana": "とる",
+    "romaji": "toru",
+    "meaning": "take, steal",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "言い換える",
+    "hiragana": "いいかえる",
+    "romaji": "iikaesu",
+    "meaning": "talk back, retort",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "教える",
+    "hiragana": "おしえる",
+    "romaji": "oshieru",
+    "meaning": "teach, show",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やぶる",
+    "romaji": "yaburu",
+    "meaning": "tear, break, defeat",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "冷やかす",
+    "hiragana": "ひやかす",
+    "romaji": "hiyakasu",
+    "meaning": "tease, make fun of",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "戒める",
+    "hiragana": "いましめる",
+    "romaji": "imashimeru",
+    "meaning": "tell off, caution",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "練る",
+    "hiragana": "ねる",
+    "romaji": "neru",
+    "meaning": "temper, refine, kneed",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "試す",
+    "hiragana": "ためす",
+    "romaji": "tamesu",
+    "meaning": "test, try, taste",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "思う",
+    "hiragana": "おもう",
+    "romaji": "omou",
+    "meaning": "think",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "考える",
+    "hiragana": "かんがえる",
+    "romaji": "kangaeru",
+    "meaning": "think",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "思いつく",
+    "hiragana": "おもいつく",
+    "romaji": "omoitsuku",
+    "meaning": "Think of / come into your mind",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "投げる",
+    "hiragana": "なげる",
+    "romaji": "nageru",
+    "meaning": "throw away",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "捨てる",
+    "hiragana": "すてる",
+    "romaji": "suteru",
+    "meaning": "throw away",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "縛る",
+    "hiragana": "しばる",
+    "romaji": "shibaru",
+    "meaning": "tie up, bind",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "結ぶ",
+    "hiragana": "むすぶ",
+    "romaji": "musubu",
+    "meaning": "tie, knot, make a contract",
+    "type": "う-v.",
+    "ending": "ぶ"
+  },
+  {
+    "kanji": "育てる",
+    "hiragana": "そだてる",
+    "romaji": "sodateru",
+    "meaning": "to rear, to bring up",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うわまわる",
+    "romaji": "uwamawaru",
+    "meaning": "top, exceed",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "虐める",
+    "hiragana": "いじめる",
+    "romaji": "ijimeru",
+    "meaning": "torment, bully",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "いびる",
+    "romaji": "ibiru",
+    "meaning": "torment, roast",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "触れる",
+    "hiragana": "ふれる",
+    "romaji": "fureru",
+    "meaning": "touch",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "触る",
+    "hiragana": "さわる",
+    "romaji": "sawaru",
+    "meaning": "touch or feel (with hands)",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "乗り換える",
+    "hiragana": "のりかえる",
+    "romaji": "norikaeru",
+    "meaning": "transit",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "よこぎる",
+    "romaji": "yokogiru",
+    "meaning": "traverse",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "騙す",
+    "hiragana": "だます",
+    "romaji": "damasu",
+    "meaning": "trick",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "消す",
+    "hiragana": "けす",
+    "romaji": "kesu",
+    "meaning": "turn off, erase",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "点ける",
+    "hiragana": "つける",
+    "romaji": "tsukeru",
+    "meaning": "turn on, light",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ひるがえる",
+    "romaji": "hirugaeru",
+    "meaning": "turn over, wave",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "曲がる",
+    "hiragana": "まがる",
+    "romaji": "magaru",
+    "meaning": "turn, bend",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "回 わす",
+    "hiragana": "まわす",
+    "romaji": "mawasu",
+    "meaning": "turn, spin",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "捩じる",
+    "hiragana": "ねじる",
+    "romaji": "nejiru",
+    "meaning": "twist",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "よじる",
+    "romaji": "yojiru",
+    "meaning": "twist, distort",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "分かる",
+    "hiragana": "わかる",
+    "romaji": "wakaru",
+    "meaning": "understand",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うねる",
+    "romaji": "uneru",
+    "meaning": "undulate",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "組む",
+    "hiragana": "くむ",
+    "romaji": "kumu",
+    "meaning": "unite, put together",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "解く",
+    "hiragana": "ほどく",
+    "romaji": "hodoku",
+    "meaning": "untie",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "meaning": "use, operate",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "消える",
+    "hiragana": "きえる",
+    "romaji": "kieru",
+    "meaning": "vanish, go out, be extinguished",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "待つ",
+    "hiragana": "まつ",
+    "romaji": "matsu",
+    "meaning": "wait",
+    "type": "う-v.",
+    "ending": "つ"
+  },
+  {
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "romaji": "okosu",
+    "meaning": "wake (somebody) up",
+    "type": "う-v.",
+    "ending": "す"
+  },
+  {
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "romaji": "aruku",
+    "meaning": "walk",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "欲しがる",
+    "hiragana": "ほしがる",
+    "romaji": "hoshigaru",
+    "meaning": "want, desire",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "洗う",
+    "hiragana": "あらう",
+    "romaji": "arau",
+    "meaning": "wash",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "眺める",
+    "hiragana": "ながめる",
+    "romaji": "nagameru",
+    "meaning": "watch, view",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "着る",
+    "hiragana": "きる",
+    "romaji": "kiru",
+    "meaning": "wear",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "被る",
+    "hiragana": "かぶる",
+    "romaji": "kaburu",
+    "meaning": "wear (on your head), put on",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "勝つ",
+    "hiragana": "かつ",
+    "romaji": "katsu",
+    "meaning": "win",
+    "type": "う-v.",
+    "ending": "つ"
+  },
+  {
+    "kanji": "枯れる",
+    "hiragana": "かれる",
+    "romaji": "kareru",
+    "meaning": "wither",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "働く",
+    "hiragana": "はたらく",
+    "romaji": "hataraku",
+    "meaning": "work",
+    "type": "う-v.",
+    "ending": "く"
+  },
+  {
+    "kanji": "勤める",
+    "hiragana": "つとめる",
+    "romaji": "tsutomeru",
+    "meaning": "work for",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "気遣う",
+    "hiragana": "きづかう",
+    "romaji": "kizukau",
+    "meaning": "worry about, consider",
+    "type": "う-v.",
+    "ending": "う"
+  },
+  {
+    "kanji": "祀る",
+    "hiragana": "まつる",
+    "romaji": "matsuru",
+    "meaning": "worship",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "傷つける",
+    "hiragana": "きずつける",
+    "romaji": "kizutsukeru",
+    "meaning": "wound, damage, harm",
+    "type": "る-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "包む",
+    "hiragana": "つつむ",
+    "romaji": "tsutsumu",
+    "meaning": "wrap",
+    "type": "う-v.",
+    "ending": "む"
+  },
+  {
+    "kanji": "",
+    "hiragana": "もじる",
+    "romaji": "mogiru",
+    "meaning": "wrench",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すじる",
+    "romaji": "sujiru",
+    "meaning": "wriggle",
+    "type": "う-v.",
+    "ending": "る"
+  },
+  {
+    "kanji": "書く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "meaning": "write",
+    "type": "う-v.",
+    "ending": "く"
+  }
+]
