@@ -18,7 +18,6 @@ class _HomePageState extends State<HomePage> {
   bool isNegative = false; // 🔁 SWITCH positivo / negativo
   int visitCount = 0;
 
-  // Lista dei forms con kanji e nome inglese
   late final List<Map<String, String>> formsList;
 
   @override
@@ -59,7 +58,6 @@ class _HomePageState extends State<HomePage> {
     await prefs.setInt('visitCount', visitCount);
   }
 
-  // ----------------- LOGICA POSITIVO / NEGATIVO -----------------
   Map<String, String> getSelectedForm(Verb verb) {
     final positiveMap = {
       '辞書形': verb.baseForm,
@@ -119,217 +117,224 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
       ),
-      body: Stack(
-        alignment: Alignment.center,
-        children: [
-          // SFONDO
-          Container(
-            width: double.infinity,
-            height: MediaQuery.of(context).size.height,
-            decoration: const BoxDecoration(
-              image: DecorationImage(
-                image: AssetImage('assets/images/kanji_background.png'),
-                fit: BoxFit.cover,
-              ),
-            ),
+      body: SingleChildScrollView(
+        child: ConstrainedBox(
+          constraints: BoxConstraints(
+            minHeight: MediaQuery.of(context).size.height,
           ),
-
-          // LOGO principale
-          Positioned(
-            top: 40,
-            child: SizedBox(
-              height: 800,
-              child: ClipRRect(
-                borderRadius: BorderRadius.circular(24),
-                child: BackdropFilter(
-                  filter: ImageFilter.blur(sigmaX: 5, sigmaY: 5),
-                  child: Image.asset(
-                    'assets/images/logo.png',
-                    height: 800,
+          child: Stack(
+            alignment: Alignment.center,
+            children: [
+              // SFONDO
+              Container(
+                width: double.infinity,
+                height: MediaQuery.of(context).size.height,
+                decoration: const BoxDecoration(
+                  image: DecorationImage(
+                    image: AssetImage('assets/images/kanji_background.png'),
+                    fit: BoxFit.cover,
                   ),
                 ),
               ),
-            ),
-          ),
 
-          // SCHEDA VERBO
-          if (selectedVerb != null)
-            Positioned(
-              top: 330,
-              child: Container(
-                padding: const EdgeInsets.all(16),
-                decoration: BoxDecoration(
-                  color: Colors.white.withOpacity(0.9),
-                  borderRadius: BorderRadius.circular(16),
-                  boxShadow: const [
-                    BoxShadow(
-                      color: Colors.black26,
-                      blurRadius: 12,
-                      offset: Offset(0, 6),
+              // LOGO principale
+              Positioned(
+                top: 40,
+                child: SizedBox(
+                  height: 800,
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(24),
+                    child: BackdropFilter(
+                      filter: ImageFilter.blur(sigmaX: 5, sigmaY: 5),
+                      child: Image.asset(
+                        'assets/images/logo.png',
+                        height: 800,
+                      ),
                     ),
-                  ],
+                  ),
                 ),
-                child: IntrinsicWidth(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.center,
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      // DROPDOWN
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
+              ),
+
+              // SCHEDA VERBO
+              if (selectedVerb != null)
+                Positioned(
+                  top: 330,
+                  child: Container(
+                    padding: const EdgeInsets.all(16),
+                    decoration: BoxDecoration(
+                      color: Colors.white.withOpacity(0.9),
+                      borderRadius: BorderRadius.circular(16),
+                      boxShadow: const [
+                        BoxShadow(
+                          color: Colors.black26,
+                          blurRadius: 12,
+                          offset: Offset(0, 6),
+                        ),
+                      ],
+                    ),
+                    child: IntrinsicWidth(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.center,
+                        mainAxisSize: MainAxisSize.min,
                         children: [
-                          Expanded(
-                            child: DropdownButton<String>(
-                              isExpanded: true,
-                              value: selectedForm,
-                              items: formsList
-                                  .map(
-                                    (f) => DropdownMenuItem(
-                                      value: f['kanji'],
-                                      child: Text('${f['kanji']} (${f['labelEng']})'),
-                                    ),
-                                  )
-                                  .toList(),
-                              onChanged: (value) {
-                                setState(() {
-                                  selectedForm = value!;
-                                });
-                              },
-                            ),
+                          // DROPDOWN
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Expanded(
+                                child: DropdownButton<String>(
+                                  isExpanded: true,
+                                  value: selectedForm,
+                                  items: formsList
+                                      .map(
+                                        (f) => DropdownMenuItem(
+                                          value: f['kanji'],
+                                          child: Text('${f['kanji']} (${f['labelEng']})'),
+                                        ),
+                                      )
+                                      .toList(),
+                                  onChanged: (value) {
+                                    setState(() {
+                                      selectedForm = value!;
+                                    });
+                                  },
+                                ),
+                              ),
+                            ],
                           ),
+                          const SizedBox(height: 8),
+
+                          // SWITCH POSITIVO / NEGATIVO
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              const Text('Negative'),
+                              const SizedBox(width: 8),
+                              Switch(
+                                value: isNegative,
+                                onChanged: (v) {
+                                  setState(() {
+                                    isNegative = v;
+                                  });
+                                },
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 8),
+
+                          // MOSTRA FORMA SELEZIONATA
+                          Builder(builder: (context) {
+                            final form = getSelectedForm(selectedVerb!);
+                            final kanji = form['kanji']!;
+                            final hira = form['hiragana']!;
+                            return Column(
+                              crossAxisAlignment: CrossAxisAlignment.center,
+                              children: [
+                                Text(
+                                  kanji.isNotEmpty ? kanji : hira,
+                                  style: const TextStyle(
+                                    fontSize: 24,
+                                    fontWeight: FontWeight.bold,
+                                    fontFamily: 'Noto Sans CJK',
+                                  ),
+                                ),
+                                const SizedBox(height: 4),
+                                Text(
+                                  '$hira - ${selectedVerb!.meaning}',
+                                  style: const TextStyle(
+                                    fontSize: 18,
+                                    fontFamily: 'Noto Sans CJK',
+                                    color: Colors.grey,
+                                  ),
+                                ),
+                              ],
+                            );
+                          }),
                         ],
                       ),
-                      const SizedBox(height: 8),
+                    ),
+                  ),
+                ),
 
-                      // SWITCH POSITIVO / NEGATIVO
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          const Text('Negative'),
-                          const SizedBox(width: 8),
-                          Switch(
-                            value: isNegative,
-                            onChanged: (v) {
-                              setState(() {
-                                isNegative = v;
-                              });
-                            },
-                          ),
-                        ],
+              // SEARCH BAR
+              Positioned(
+                top: 620,
+                child: Container(
+                  width: searchBarWidth,
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  decoration: BoxDecoration(
+                    color: Colors.white.withOpacity(0.6),
+                    borderRadius: BorderRadius.circular(16),
+                    boxShadow: const [
+                      BoxShadow(
+                        color: Colors.black26,
+                        blurRadius: 12,
+                        offset: Offset(0, 6),
                       ),
-                      const SizedBox(height: 8),
-
-                      // MOSTRA FORMA SELEZIONATA
-                      Builder(builder: (context) {
-                        final form = getSelectedForm(selectedVerb!);
-                        final kanji = form['kanji']!;
-                        final hira = form['hiragana']!;
-                        return Column(
-                          crossAxisAlignment: CrossAxisAlignment.center,
-                          children: [
-                            Text(
-                              kanji.isNotEmpty ? kanji : hira,
-                              style: const TextStyle(
-                                fontSize: 24,
-                                fontWeight: FontWeight.bold,
-                                fontFamily: 'Noto Sans CJK',
-                              ),
-                            ),
-                            const SizedBox(height: 4),
-                            Text(
-                              '$hira - ${selectedVerb!.meaning}',
-                              style: const TextStyle(
-                                fontSize: 18,
-                                fontFamily: 'Noto Sans CJK',
-                                color: Colors.grey,
-                              ),
-                            ),
-                          ],
-                        );
-                      }),
                     ],
                   ),
+                  child: Autocomplete<Verb>(
+                    optionsBuilder: (TextEditingValue textEditingValue) {
+                      if (textEditingValue.text.isEmpty) {
+                        return const Iterable<Verb>.empty();
+                      }
+                      return widget.verbs.where((verb) {
+                        final q = textEditingValue.text.toLowerCase();
+                        return verb.kanji.toLowerCase().contains(q) ||
+                            verb.hiragana.toLowerCase().contains(q) ||
+                            verb.romaji.toLowerCase().contains(q) ||
+                            verb.meaning.toLowerCase().contains(q);
+                      });
+                    },
+                    displayStringForOption: (Verb v) => v.kanji.isNotEmpty
+                        ? '${v.kanji} ${v.hiragana} (${v.romaji})'
+                        : '${v.hiragana} (${v.romaji})',
+                    onSelected: (verb) {
+                      setState(() {
+                        selectedVerb = verb;
+                        selectedForm = '辞書形';
+                        isNegative = false;
+                      });
+                      _incrementVisitCount();
+                    },
+                    fieldViewBuilder:
+                        (context, textEditingController, focusNode, onFieldSubmitted) {
+                      return TextField(
+                        controller: textEditingController,
+                        focusNode: focusNode,
+                        onSubmitted: (value) => onFieldSubmitted(),
+                        textAlign: TextAlign.center,
+                        decoration: const InputDecoration(
+                          hintText: '動詞を検索 / Search verbs',
+                          border: InputBorder.none,
+                        ),
+                        style: const TextStyle(
+                          fontSize: 16,
+                          fontFamily: 'Noto Sans CJK',
+                        ),
+                      );
+                    },
+                  ),
                 ),
               ),
-            ),
 
-          // SEARCH BAR
-          Positioned(
-            top: 620,
-            child: Container(
-              width: searchBarWidth,
-              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-              decoration: BoxDecoration(
-                color: Colors.white.withOpacity(0.6),
-                borderRadius: BorderRadius.circular(16),
-                boxShadow: const [
-                  BoxShadow(
-                    color: Colors.black26,
-                    blurRadius: 12,
-                    offset: Offset(0, 6),
+              // CONTATORE
+              Positioned(
+                bottom: 20,
+                right: 20,
+                child: Text(
+                  '検索された動詞\nSearched verbs: $visitCount',
+                  style: const TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                    fontFamily: 'Noto Sans CJK',
+                    color: Colors.blueGrey,
                   ),
-                ],
+                ),
               ),
-              child: Autocomplete<Verb>(
-                optionsBuilder: (TextEditingValue textEditingValue) {
-                  if (textEditingValue.text.isEmpty) {
-                    return const Iterable<Verb>.empty();
-                  }
-                  return widget.verbs.where((verb) {
-                    final q = textEditingValue.text.toLowerCase();
-                    return verb.kanji.toLowerCase().contains(q) ||
-                        verb.hiragana.toLowerCase().contains(q) ||
-                        verb.romaji.toLowerCase().contains(q) ||
-                        verb.meaning.toLowerCase().contains(q);
-                  });
-                },
-                displayStringForOption: (Verb v) => v.kanji.isNotEmpty
-                    ? '${v.kanji} ${v.hiragana} (${v.romaji})'
-                    : '${v.hiragana} (${v.romaji})',
-                onSelected: (verb) {
-                  setState(() {
-                    selectedVerb = verb;
-                    selectedForm = '辞書形';
-                    isNegative = false;
-                  });
-                  _incrementVisitCount();
-                },
-                fieldViewBuilder:
-                    (context, textEditingController, focusNode, onFieldSubmitted) {
-                  return TextField(
-                    controller: textEditingController,
-                    focusNode: focusNode,
-                    onSubmitted: (value) => onFieldSubmitted(),
-                    textAlign: TextAlign.center,
-                    decoration: const InputDecoration(
-                      hintText: '動詞を検索 / Search verbs',
-                      border: InputBorder.none,
-                    ),
-                    style: const TextStyle(
-                      fontSize: 16,
-                      fontFamily: 'Noto Sans CJK',
-                    ),
-                  );
-                },
-              ),
-            ),
+            ],
           ),
-
-          // CONTATORE
-          Positioned(
-            bottom: 20,
-            right: 20,
-            child: Text(
-              '検索された動詞\nSearched verbs: $visitCount',
-              style: const TextStyle(
-                fontSize: 16,
-                fontWeight: FontWeight.bold,
-                fontFamily: 'Noto Sans CJK',
-                color: Colors.blueGrey,
-              ),
-            ),
-          ),
-        ],
+        ),
       ),
     );
   }
