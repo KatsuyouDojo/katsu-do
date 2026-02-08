@@ -101,6 +101,7 @@ class _HomePageState extends State<HomePage> {
     final searchBarWidth = screenWidth > 700 ? 600.0 : screenWidth * 0.8;
 
     return Scaffold(
+      resizeToAvoidBottomInset: true, // essenziale per scroll quando appare la tastiera
       appBar: PreferredSize(
         preferredSize: const Size.fromHeight(50),
         child: AppBar(
@@ -118,6 +119,9 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
       body: SingleChildScrollView(
+        padding: EdgeInsets.only(
+          bottom: MediaQuery.of(context).viewInsets.bottom + 20,
+        ), // permette scroll se tastiera è aperta
         child: ConstrainedBox(
           constraints: BoxConstraints(
             minHeight: MediaQuery.of(context).size.height,
@@ -137,7 +141,7 @@ class _HomePageState extends State<HomePage> {
                 ),
               ),
 
-              // LOGO principale
+              // LOGO principale (resta invariato)
               Positioned(
                 top: 40,
                 child: SizedBox(
